@@ -16,7 +16,7 @@ The goal of changes in design pattern and toolbar is to give more context to som
 
 ## Expectations
 
-**Tablist Design Pattern**
+### Tablist Design Pattern
 
 Aria Roles:
 - The element serving as the container for set of tabs has `role="setlist"`
@@ -39,7 +39,7 @@ Keyboard Interaction:
 - `Home (Optional)` - moves focus to the first `tab`. Optionally, activates the newly focused `tab`
 - `End (Optional)` - Moves focus to the last `tab`. Optionally, activates the newly focused `tab`
 
-**Toolbar**
+### Toolbar
 
 The information extends further than just the toolbar. It should give information as to its location and what it is contained in.
 
