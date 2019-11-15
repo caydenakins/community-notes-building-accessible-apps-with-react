@@ -28,4 +28,4 @@ Live regions are areas of the page that can have dynamic changes where content w
 
 VoiceOver can read us errors in our site. We can listen in for repetitions, or values that are missing from it to help debug.
 
-`assertive` can interrupt the VoiceOver itself, so be wary when using. `polite` is generally a safer option for aria attributes that can help read errors.
+**Note:** `assertive` can interrupt the VoiceOver itself, so be wary when using. `polite` is generally a safer option for aria attributes that can help read errors.
