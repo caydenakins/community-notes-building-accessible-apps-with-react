@@ -21,6 +21,6 @@ We can pass in booleans like `doFocus` for controlling whether or not we want an
 
 ## User Questions
 
-Mike Polowick: *Any reason not to use -1 for the tabIndex on the <h1>?*
+Mike Polowick: *Any reason not to use -1 for the tabIndex on the \<h1>?*
 - -1 is a way of saying something is not focusable, it needs to be a positive number for it to be focusable. There's not really a reason to add numbers greater than 0.
-- _Learner's Advocate Note_ - Despite the program still functioning when you use a `tabIndex` greater than 0, it is considered an **anti-pattern**. It shifts the affected element to the end of the tab order.
+  - _Learner's Advocate Note_ - Despite the program still functioning when you use a `tabIndex` greater than 0, it is considered an **anti-pattern**. It shifts the affected element to the end of the tab order.
