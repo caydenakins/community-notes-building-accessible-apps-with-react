@@ -32,4 +32,4 @@ If you see you have an `aria-labelledby` that you can make the change to an `ari
 ## User Questions
 
 Nick V: *How do these labels intersect with localization? Have you used those together with React international?*
-- Yes I have, if you are using React International or whatever you have, you want to _translate the text_, _get the result_ (translated text result), then depending on what label you are using, _pass it in that_.
+- Yes I have, if you are using React International or whatever you have, you want to **translate the text**, **get the result** (translated text result), then depending on what label you are using, **pass it in that**.

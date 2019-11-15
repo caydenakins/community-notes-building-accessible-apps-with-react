@@ -22,4 +22,4 @@ Constantly think about how you can reuse things and the accessibility.
 ## User Questions
 
 Daniele Tortora: *Is there reason why wrapping component into div instead of using fragment?*
-- There is not a reason. If I remember correctly, when I first wrote and built this app, fragment wasn't as big of a deal. And it sort of since has been, so I started adding it in some places in the app, but I didn't add it in perfectly. _I do recommend using fragment over div if that div doesn't bring anything else to the table_.
+- There is not a reason. If I remember correctly, when I first wrote and built this app, fragment wasn't as big of a deal. And it sort of since has been, so I started adding it in some places in the app, but I didn't add it in perfectly. **I do recommend using fragment over div if that div doesn't bring anything else to the table**.
