@@ -17,7 +17,6 @@ You can't focus an element that isn't focusable, so you have to give it a `tabIn
 - `tabIndex={0}` -> `tabIndex={1}`
 
 We can pass in booleans like `doFocus` for controlling whether or not we want an element to focus.
-- `doFocus={hasMovies}` would focus if we had movies,
 
 ## User Questions
 
